@@ -1,0 +1,504 @@
+Usia;Pekerjaan;Apps;Hobby;Ukuran Laptop;Rentang harga;Jenis Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+39;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+26;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+28;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+30;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+48;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+37;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+55;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+29;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+51;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Game;Gaming;12 Inch;< 5 juta;Student Laptop
+49;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+26;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+43;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+44;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+28;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+22;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+47;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+26;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+28;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+30;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+20;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+38;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+28;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+30;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+53;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+38;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+49;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+48;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+24;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+14;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+43;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+59;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+17;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+14;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+52;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+59;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+14;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+19;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+10;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+27;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+12;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+45;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+38;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+51;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+21;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+31;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+25;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+37;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+31;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+60;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+42;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+32;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+49;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+52;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+25;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+44;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+15;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Game;Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+22;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+14;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+37;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+39;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+50;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+40;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+37;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+32;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+51;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+14;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+49;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+50;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+28;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+45;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+17;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+25;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+17;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+31;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+26;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+54;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+44;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+10;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+37;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Game;Gaming;12 Inch;< 5 juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+25;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+47;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+18;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+27;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+49;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+53;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+24;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+26;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+23;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Game;Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+50;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+54;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+31;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+32;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+28;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+46;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+16;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+30;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+33;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+30;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+49;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+31;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+40;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+48;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+48;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+24;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+26;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Game;Gaming;12 Inch;< 5 juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+10;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+45;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+60;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+28;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+21;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+22;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+41;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+20;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+48;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+57;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+53;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+37;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+51;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+27;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+40;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Business Owner;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+16;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+33;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+16;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+12;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;< 5 juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+27;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Game;Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+51;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+56;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+24;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Game;Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+46;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+17;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+26;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Olahraga;13 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+11;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+18;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+26;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+27;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Game;Gaming;12 Inch;< 5 juta;Student Laptop
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+32;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Gaming Laptop / Multimedia Laptop
+32;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+;Pelajar / Mahasiswa;Game;Gaming;15 Inch;5 - < 10 Juta;Student Laptop
+;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);13 Inch;15 - < 20 Juta;Business Laptop / Ultrabook
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Olahraga;12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+40;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+23;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+38;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+20;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+25;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+27;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+22;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+15;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+30;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+28;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;16 Inch;>= 20 Juta;Business Laptop / Ultrabook
+25;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Gaming;15 Inch;15 - < 20 Juta;Gaming Laptop / Multimedia Laptop
+36;Karyawan (Programmer / Data Scientist / dan lain-lain);Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+35;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;13 Inch;< 5 juta;Business Laptop / Ultrabook
+22;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+39;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Streamer / Content Creator / Designer;Game;Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+18;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+28;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+23;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+10;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+23;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+38;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+13;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+14;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+16;Pelajar / Mahasiswa;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+19;Pelajar / Mahasiswa;Game;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+34;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+34;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+21;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+19;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+12;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+22;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;< 5 juta;Gaming Laptop / Multimedia Laptop
+10;Pelajar / Mahasiswa;Game;Gaming;12 Inch;< 5 juta;Student Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Olahraga;14 Inch;5 - < 10 Juta;Student Laptop
+11;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+29;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+21;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+27;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Gaming;14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Business Owner;Microsoft Office;Olahraga;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+17;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;14 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
+32;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;< 5 juta;Student Laptop
+18;Streamer / Content Creator / Designer;Game;Gaming;15 Inch;10 - < 15 Juta;Gaming Laptop / Multimedia Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Olahraga;15 Inch;5 - < 10 Juta;Student Laptop
+33;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);15 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);12 Inch;< 5 juta;Student Laptop
+40;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+27;Karyawan (Programmer / Data Scientist / dan lain-lain);Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+16;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+18;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);14 Inch;5 - < 10 Juta;Student Laptop
+20;Pelajar / Mahasiswa;Microsoft Office;Design dan Seni (Musik, Film, dan lain-lain);16 Inch;5 - < 10 Juta;Business Laptop / Ultrabook
+27;Streamer / Content Creator / Designer;Multimedia (Adobe Photoshop, Illustrator, dan lain-lain);Gaming;15 Inch;10 - < 15 Juta;Business Laptop / Ultrabook
