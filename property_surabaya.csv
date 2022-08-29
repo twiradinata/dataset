@@ -1,0 +1,491 @@
+﻿cluster name;surface area;building area;bedrooms;bathrooms;storey;community price;price;ownership status;facing;house position;road width;urgent;building age;ready to use;furnished;area category
+Northwest Lake;72;69;2;2;2;1400000000;1350000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Bukit Palma;60;90;3;2;2;1000000000;1125000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Palma Classica;210;100;4;2;1;2400000000;1999000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Bukit Palma;120;54;3;1;1;800000000;850000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;> 10 Tahun;No;No;Standard
+Bukit Palma;60;90;3;2;2;800000000;1025000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Bukit Palma;233;177;5;3;2;2000000000; 3.700.000.000 ;Hak Guna Bangunan (HGB);Selatan;Tikungan/Hook;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+bukit Palma;84;120;3;2;2;1000000000;1200000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+bukit Palma;120;100;2;1;1;1150000000;1300000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+bukit Palma;120;70;3;1;1;1150000000;1350000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+bukit Palma;122,5;94;3;2;1;1200000000;1250000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;No;No;Standard
+citraland;180;220;4;3;2;3500000000;3600000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+citraland;210;170;3;2;1;2500000000;1900000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;Yes;> 10 Tahun;No;No;Premium
+greenlake;136;138;4;4;2;2000000000;2600000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+greenlake;200;258;4;3;2;2500000000;3750000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;No;Yes;Standard
+wisata bukit mas;120;124;4;4;2;2000000000;2500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Pondok Benowo;135;240;4;4;2;1500000000;2100000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+Darmo;372;400;5;4;2;10000000000;15500000000;Hak Milik (SHM);Utara;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Sutorejo;166;210;5;4;2;3000000000;3400000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Northwest Lake;90;85;3;3;2;1850000000;1800000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Northwest Lake;50;45;1;2;2;900000000;950000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Northwest Lake;50;45;1;2;2;900000000;869930000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Northwest Lake;105;96;3;3;2;1600000000;1900000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Northwest Lake;55;45;1;2;2;1000000000;905430000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Northwest Lake;55;45;1;2;2;1000000000;900000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Northwest Lake;50;53;2;2;2;1000000000;903450000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+northwest Lake;72;69;2;2;2;1200000000;1400000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+northwest park;72;46;2;1;1;1000000000;961680000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+northwest park;72;46;2;1;1;1000000000;900000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+northwest park;72;46;2;1;1;1000000000;907680000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+northwest park;72;46;2;1;1;1000000000;1000000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+northwest park;90;70;2;2;2;1400000000;1600000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+northwest park;72;46;2;1;1;800000000;825000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+royal park;210;280;4;4;2;3250000000;3150000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+royal park;210;84;4;2;2;3000000000;3500000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+selat golf;450;650;6;5;2;12000000000;13900000000;Hak Milik (SHM);Utara;Cul De Sac/Ujung Gang Buntu;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Sangat Premium
+taman puspa raya;90;135;4;4;2;1800000000;2000000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+darmo permai;200;350;5;2;2;3500000000;4400000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+darmo permai;200;135;4;2;1;3000000000;3200000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;> 10 Tahun;No;No;Standard
+graha;766;540;6;5;2;14000000000;16000000000;Hak Guna Bangunan (HGB);Utara;Tikungan/Hook;> 2 Mobil;No;> 10 Tahun;Yes;No;Sangat Premium
+grand sunrise;90;48;2;1;1;900000000;800000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+kupang indah;300;250;5;3;1;3300000000;3000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Premium
+bayleaf;60;40;2;1;1;400000000;500000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+padmosusastro;150;122;3;2;1;2800000000;3500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;> 10 Tahun;No;No;Standard
+pakuwon indah;265;236;5;4;2;6000000000;6500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+pandugo;113;100;3;2;2;1250000000;1250000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+ploso;72;140;3;3;2;1000000000;1300000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+prapen;165;330;4;3;2;2500000000; 2.750.000.000 ;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+puri surya jaya;217;100;5;2;2;1300000000;1400000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+puri surya jaya;105;70;2;1;1;700000000;899000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Tenggilis;91;150;5;4;2;1500000000;1650000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Tenggilis;80;125;4;4;2;1300000000;1550000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+royal residence;445;500;6;5;2;6500000000;8000000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+taman pondok indah;140;200;4;3;2;2500000000;2700000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Palma Classica;105;60;2;1;1;1200000000;1200000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Northwest Park;72;54;2;1;1;1000000000;1100000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Northwest Park;105;90;3;2;2;1300000000;1600000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Pelican Hill;200;198;5;4;2;3000000000;3100000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Puri Widya;150;170;4;4;2;2500000000;2000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+De Casa;100;100;4;3;2;1000000000;1500000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+Grand Pakuwon;72;84;3;2;2;1500000000;1400000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Premium
+Grand Harvest;60;77;2;2;2;1100000000;1200000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Grand Harvest;69;77;2;2;2;1100000000;1200000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Grand Harvest;102;93;4;3;2;1500000000;1250000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Puri Safira;105;80;3;1;1;700000000;700000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Lidah Kulon;148,5;148,5;3;3;2;1500000000; 1.500.000.000 ;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Simpang;187;240;4;4;2;2750000000;3100000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+TWR;105;90;3;2;2;1000000000;1200000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+VBM;264;350;7;4;2;4000000000;4300000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Prambanan;128;125;4;4;2;3750000000;4950000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+TPI;119;149;3;1;1;1750000000;1600000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+WBM;240;330;5;4;2;3500000000;3700000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Babatan;175;115;4;4;2;1800000000;1500000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Babatan;162;120;4;3;1;2000000000;2000000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Palma Classica;200;280;5;5;2;3000000000;3250000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+Greenlake;105;140;4;3;2;1500000000;1950000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+northwest lake;72;60;1;2;2;1200000000;1275000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+northwest park;120;100;3;2;2;1800000000;2000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+Pelican Hill;135;145;4;2;2;2300000000;2450000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Pelican Hill;135;140;4;3;2;2300000000;2100000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Standard
+Puri Widya;450;650;7;6;2;8000000000;8500000000;Hak Guna Bangunan (HGB);Selatan;Cul De Sac/Ujung Gang Buntu;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Darmo;240;180;3;2;1;4000000000;4200000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Darmo;200;280;5;4;2;3000000000;3500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Dukuh Kupang;140;280;5;3;2;1200000000;1400000000;Surat Hijau;Barat;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Graha;345;550;6;5;2;15000000000;16000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Sangat Premium
+Graha;328;375;5;5;2;10000000000;10000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+kupang indah;360;360;6;5;2;6000000000;6500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;> 10 Tahun;Yes;Yes;Premium
+pakal;88;70;2;1;1;500000000;750000000;Hak Guna Bangunan (HGB);Barat;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+pakuwon city;170;161;4;4;2;3500000000;4000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+pakuwon indah;162;150;4;4;2;4000000000;4000000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+pakuwon indah;200;215;4;5;3;4500000000;5750000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+villa valensia;160;160;4;3;1;3000000000;2800000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+wisma lidah;120;200;4;4;2;1500000000;2000000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+dian istana;164;140;4;4;2;4000000000;3500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+forest;136;160;5;3;2;2800000000;2900000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+Graha Sampurna;135;200;5;4;2;2500000000;3000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+pinus asri;150;140;4;2;1;1000000000;1450000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+pondok maritim;135;120;3;2;1,5;1250000000;1500000000;Hak Milik (SHM);Utara;Standard;< 1 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+Alam Galaxy;72;48;1;2;2;1300000000;1400000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+Royal;50;65;2;1;2;1400000000;1300000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+wisata bukit mas;160;320;7;4;2;4300000000;3800000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+wisata bukit mas;180;240;5;3;2;4000000000;4000000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+wisata bukit mas;66;198;4;4;3;1900000000;1600000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+wisata bukit mas;66;198;5;5;3;1900000000;1600000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+wisata bukit mas;66;198;6;6;3;1900000000;1600000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+wisata bukit mas;218;280;4;3;2;3600000000;3500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+graha natura;96;74;4;3;2;2200000000;2200000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+grand pakuwon;72;70;2;2;2;1300000000;1325000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+grand pakuwon;48;57;2;2;2;1250000000;1250000000;Pengikatan Perjanjian Jual Beli (PPJB);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+kupang indah;345;540;6;5;2;5800000000;5800000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+kupang indah;315;315;3;2;1;4000000000;3600000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;> 10 Tahun;No;No;Premium
+manyar;240;330;5;4;2;5100000000;5300000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+pakuwon;144;170;4;4;2;4000000000;4300000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+pakuwon;360;500;6;6;2;8000000000;10000000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+bukit golf;1554;1500;7;6;2;38500000000;38500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+bukit palma;105;170;5;2;2;1395000000;1900000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+bukit palma;158;180;5;4;2;2400000000;2000000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+bukit palma;115;104;4;3;2;1850000000;1850000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+greenhill;97,7;50;2;1;1;1250000000;1250000000;Pengikatan Perjanjian Jual Beli (PPJB);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+greenhill;105;69;3;2;2;1836000000;1850000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+northwest central;105;104;3;2;2;1900000000;1900000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+northwest hill;60;48;1;2;2;1250000000;1200000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+woodland;180;130;4;3;1;2400000000;2600000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+darmo permai;286;262;5;2;1;4100000000;4100000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+lebak jaya;84;120;4;3;2;1300000000;1300000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+raya tambaksari;83;140;6;1;2;2000000000;1700000000;Hak Milik (SHM);Barat;Kantong Belakang/Ngantong;1-2 Mobil;Yes;> 10 Tahun;No;No;Standard
+raya simpang darmo permai selatan;225;270;6;3;1,5;3950000000;3950000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+pakuwon city virginia regency;345;300;5;4;3;7200000000;6900000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Sangat Premium
+kertajaya indah regency;395;710;5;5;2,5;12000000000;11500000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+puri galaxy;360;380;6;4;2;9250000000;9250000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Sangat Premium
+graha natura acasia;108;107;3;3;2;2200000000;2200000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+pondok chandra belimbing tengah;135;250;9;5;2;1500000000;1500000000;Hak Milik (SHM);Utara;Tikungan/Hook;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+north west park nd citraland;135;100;5;4;2;2500000000;2500000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+darmo harapan indah tt;180;150;4;3;2;1800000000;1950000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+raya kupang baru;1818;360;9;8;2;40000000000;40000000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;Yes;Sangat Premium
+puri widya kencana k citraland utama;240;450;5;5;2;4500000000;4500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+panjang jiwo permai selatan;368;200;4;4;2;4500000000;4200000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+margorejo indah;375;450;5;4;2;6000000000;6000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+rungkut asri utara;180;130;4;2;2;2500000000;2500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+perum one gate medokan baru;135;117;3;2;2;1600000000;1600000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+perum tenggilis mejoyo;84;106;2;5;2;1575000000;1575000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+royal residence;240;288;5;5;2;4750000000;4750000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+royal park 2 citraland;135;100;4;3;2;2750000000;2750000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Standard
+nginden intan timur blok e;234;234;6;3;2;3500000000;3500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+wisata bukit mas 2 cluster notredame;66;135;4;4;3;1650000000;1650000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+villa westwood pakuwon city;450;630;5;6;3;10500000000;10500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+ploso timur;157;100;3;2;2;1250000000;1250000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+aries;184;160;4;2;2;1700000000;1700000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+tenggilis mejoyo;200;200;7;4;2;3200000000;2500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Standard
+wisata bukit mas;104;180;4;4;3;2500000000;2500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+karang asem;128;150;6;4;1,5;1750000000;1750000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+raya dharma husada indah;680;1000;6;5;2;35000000000;35000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+halimun;210;200;14;4;1,5;3000000000;3000000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Premium
+raya dukuh kupang;60;120;3;3;2;4250000000;4250000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Premium
+kutisari indah;80;106;3;2;2;1500000000;1500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+graha family blok w;900;1100;5;6;2;58000000000;58000000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Sangat Premium
+taman mutiara pakuwon city 2;112;200;5;4;2;3350000000;3350000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Standard
+citraland utara greenhill;97;50;2;1;1;1149000000;1149000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+dukuh kupang timur;180;153;4;1;1,5;1600000000;1600000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+darmo permai selatan;630;700;5;5;2;5500000000;5500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+citraland pelican hill;120;125;4;2;2;2000000000;1800000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+jemursari regency;122;167;4;4;2;2300000000;2300000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+mulyosari utara;134;200;6;4;2;1800000000;1600000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+sutorejo utara;153;240;5;5;2;2950000000;2950000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+purimas;210;180;4;3;2;2800000000;2800000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+tenggilis permai;180;130;4;2;2;1600000000;1600000000;Hak Milik (SHM);Barat;Tikungan/Hook;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+central park mulyosari;400;300;8;7;2;6500000000;6500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+citraland stamford palace;162;245;5;4;2;3000000000;2900000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Premium
+greenlake;240;280;5;4;2;5500000000;5000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Premium
+woodland;234;270;5;5;2;4350000000;4500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+royal residence;240;288;5;5;2;4750000000;4750000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+koala regency;96;137;4;4;2;1700000000;1700000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Standard
+citraland utama;210;118;4;3;1;3100000000;3100000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+raffles garden citraland;180;100;3;2;1;2150000000;2150000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;> 10 Tahun;No;No;Standard
+villa valensia pakuwon;144;150;4;3;2;3000000000;3000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+raya siwalankerto;1200;2000;36;36;3;15000000000;13000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+pantai mentari hampton;187;250;5;5;2;3300000000;3100000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Premium
+wonorungkut;75;120;3;3;2;1400000000;1400000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+fullerton cluster depan;210;350;5;6;2;5250000000;5250000000;Pengikatan Perjanjian Jual Beli (PPJB);Barat;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+boulevard wisata bukit mas;420;700;5;6;2;9500000000;9500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+fullerton citraland;360;450;5;6;2;8500000000;8500000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Sangat Premium
+golf avenue citraland;248;300;5;5;2;4750000000;5000000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+citraland;200;280;4;4;2;3850000000;3850000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+klampis semolo timur;135;185;5;4;2;2600000000;2600000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+galaxy bumi permai araya 2;310;425;5;4;2;9000000000;8500000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Sangat Premium
+medokan asri;84;70;3;2;2;990000000;990000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+araya 1;201;225;6;5;2;4900000000;4900000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+simpang darmo permai selatan;90;100;3;2;1,5;1000000000; 1.000.000.000 ;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+pondok benowo;72;50;2;1;1;575000000;575000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+golden berry menganti;72;93;2;1;1,5;450000000;450000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+wisata bukit mas;180;146;4;3;2;2500000000;2500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+griya pesona asri medayu rungkut;78;50;2;1;1;975000000;975000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+kalijudan barat;205;203;4;2;2;1150000000; 1.150.000.000 ;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;5 - 10 Tahun;No;No;Standard
+kertajaya indah regency blok h;198;350;7;4;2;3400000000;3400000000;Hak Milik (SHM);Timur;Tusuk Sate;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+nirwana eksekutif;198;350;6;6;2;3600000000;3600000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+cipunegara;280;222;4;2;2;3500000000;3100000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;Yes;> 10 Tahun;No;No;Premium
+rungkut mutiara blok c;304;330;5;4;2;6000000000;6000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+keputih;100;160;4;3;2;1250000000;1250000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Standard
+citraland rafles garden;312;475;6;7;2,5;6700000000;6700000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+puri galaxy;360;380;6;4;3;8700000000;8700000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Sangat Premium
+banjaran kediri;400;250;4;1;1;2500000000;2500000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+alam galaxy;72;50;1;2;1;1400000000;1400000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+alam galaxy;144;120;4;2;1,5;2200000000;2200000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Standard
+sukolilo dian regency 1;105;80;3;2;1,5;1250000000;1250000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+darmo permai timur;375;353;4;3;2;4000000000;4000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;> 10 Tahun;No;No;Premium
+royal residence;352;500;6;4;3;6500000000;6500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Premium
+darmo permai timur;135;170;5;4;2;2850000000;2850000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+pakuwon indah ae;300;312;5;5;2;12000000000;12000000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;Yes;Sangat Premium
+pondok nirwana;240;200;6;3;2;3300000000;3300000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+dian istana park avenue c;375;400;5;4;2;8500000000;8500000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Sangat Premium
+mojoklangru lor;138;138;3;2;1;1650000000;1650000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+mojoklanggru kidul;350;450;6;3;2;4700000000;4700000000;Hak Milik (SHM);Utara;Tikungan/Hook;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+dharma husada utara;397;297;7;4;2;6800000000;6800000000;Hak Guna Bangunan (HGB);Barat;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+kertajaya indah regency;198;350;7;4;2;3400000000;3400000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+sutorejo prima;350;450;5;5;2;5200000000;5200000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Premium
+semolowaru elok;303;220;6;6;2;3300000000;3300000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+manyar redjo;351;198;4;3;1;4900000000;4900000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+dharma husada mas;200;300;5;4;2;4250000000;4250000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+wiguna tengah;60;50;2;1;1;750000000;750000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+manyar tirtoasri;70;120;4;4;2;1500000000;1500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+dukuh setro;210;210;5;2;1,5;1500000000;1500000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+graha family;230;270;4;4;2;5500000000;5500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;Yes;Premium
+jemursari regency;120;140;4;4;1;2500000000;2500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Graha Famili;360;600;6;7;2;11000000000;13500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Graha Famili;792;500;6;5;2;20000000000;17000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;Yes;Sangat Premium
+Graha Famili;252;290;5;4;2;6000000000;7250000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Graha Famili;300;450;4;4;2;8000000000;6300000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Premium
+Graha Famili;2000;1475;8;9;2;1,2E+11;1,05E+11;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;No;No;Sangat Premium
+Graha Famili;450;400;5;5;2;12000000000;11500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Graha Famili;252;270;5;4;2;5500000000;5000000000;Hak Guna Bangunan (HGB);Timur;Tusuk Sate;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Graha Famili;875;600;7;5;2;20000000000;18000000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;> 10 Tahun;No;No;Sangat Premium
+Graha Famili;412;370;5;4;2;11000000000; 9.800.000.000 ;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Sangat Premium
+Graha Famili;375;300;5;4;2;10000000000;8900000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Sangat Premium
+Citraland;240;200;5;4;2;5000000000;5500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Citraland;210;180;4;2;2;4500000000;3600000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+Citraland;171;120;4;2;2;2400000000;2600000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Citraland;105;70;2;1;1;1200000000;1000000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Premium
+Citraland;450;370;6;4;2;8500000000;7300000000;Hak Milik (SHM);Barat;Tusuk Sate;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Premium
+Citraland;800;1200;8;7;2;30000000000;40000000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+Citraland;90;120;4;2;2;1800000000;2000000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Citraland Utara;90;100;3;2;2;1500000000;1600000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Citraland Utara;120;100;3;2;2;2000000000;2400000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+Citraland Utara;72;45;2;1;1;850000000;900000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Tusuk Sate;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Dian Istana;252;250;5;3;2;5000000000;4500000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Dian Istana;240;200;5;3;2;5000000000;4800000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Dian Istana;128;160;4;3;2;3600000000;4000000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Dian Istana;600;780;7;6;2;12500000000;14000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Dian Istana;200;220;5;3;2;4000000000;3300000000;Hak Milik (SHM);Barat;Cul De Sac/Ujung Gang Buntu;> 2 Mobil;Yes;5 - 10 Tahun;No;No;Premium
+Bukit Darmo Golf;240;200;4;2;2;5000000000;4800000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+Bukit Darmo Golf;800;1000;7;7;2;25000000000;23000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+Bukit Darmo Golf;240;200;4;2;2;5000000000;5500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Royal Residence;144;180;5;3;2;2800000000;3300000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Royal Residence;128;160;5;4;2,5;2800000000;3200000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Darmo Permai;90;120;3;2;2;1400000000;1700000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Darmo Permai;180;100;4;2;1;2100000000;1900000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+Darmo Permai;225;300;5;4;2;2800000000;2800000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;Yes;Standard
+Darmo Permai;120;100;4;2;2;1500000000;1200000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Darmo Permai;800;550;7;4;2;22000000000;17000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Sangat Premium
+Darmo Permai;180;240;4;4;2;2200000000;3000000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;> 10 Tahun;Yes;No;Standard
+Darmo Permai;135;220;4;3;2;1800000000;1900000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;> 10 Tahun;Yes;Yes;Standard
+Darmo Permai;90;120;4;2;2;1700000000;1800000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+Darmo Permai;120;85;3;2;1;1100000000;900000000;Hak Milik (SHM);Barat;Tusuk Sate;1-2 Mobil;Yes;> 10 Tahun;No;No;Standard
+Darmo Permai;264;400;5;5;2;2800000000;3700000000;Hak Milik (SHM);Utara;Tikungan/Hook;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kupang Indah;240;400;5;4;2;4800000000;4800000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+Kupang Indah;300;200;5;3;1;4500000000;4500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;> 10 Tahun;Yes;Yes;Standard
+Kupang Indah;600;450;7;5;1;7000000000;6800000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Kupang Indah;240;180;4;4;1;3800000000;3500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Kupang Indah;320;385;6;4;1;3200000000;3000000000;Hak Milik (SHM);Utara;Tikungan/Hook;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Kupang Indah;240;400;5;4;2;5000000000;5500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kupang Indah;360;200;5;3;1;4800000000;5200000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Kupang Indah;400;700;7;5;2;7000000000;7500000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Kupang Indah;500;680;7;4;2;8000000000;9000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Kupang Indah;300;215;4;4;1;3000000000;2700000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;Yes;Standard
+Pakuwon Indah;144;200;4;4;2;3600000000;4000000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Pakuwon Indah;144;216;4;4;2;3600000000;4200000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Pakuwon Indah;180;242;5;4;2;4500000000;4300000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+Pakuwon Indah;180;236;5;4;2;4500000000;5000000000;Hak Guna Bangunan (HGB);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Pakuwon Indah;240;400;5;4;2;6000000000;7800000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Pakuwon Indah;240;420;5;4;2;6000000000;7000000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Pakuwon Indah;450;800;6;3;2;11000000000;11500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Pakuwon Indah;600;1000;8;6;2;15000000000;18000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Pakuwon Indah;240;400;5;4;2;4500000000;4300000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Pakuwon Indah;870;1450;8;6;2;23000000000;30000000000;Hak Milik (SHM);Utara;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+Citraland;210;200;5;5;2;5000000000;5500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Citraland;252;180;4;2;2;4500000000;3500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+Citraland;135;110;4;2;2;2100000000;1800000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Citraland;105;100;2;1;2;1500000000;1100000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+Citraland;300;700;6;4;2,5;7000000000;7200000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+Citraland;600;900;8;7;2;18000000000;21000000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+Citraland;90;120;4;2;2;1800000000;2000000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Citraland Utara;90;100;3;2;2;1500000000;1600000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Citraland Utara;120;100;3;2;2;2000000000;2400000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Citraland Utara;135;180;4;2;2;2200000000;2100000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Royal Residence;144;180;5;3;2;2800000000;3300000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Royal Residence;128;160;5;4;2,5;2800000000;3200000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Royal Residence;128;161;4;2;2;2400000000;2200000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;Yes;No;Premium
+Royal Residence;300;450;5;4;2;6000000000;6400000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Royal Residence;198;200;5;4;2,5;3000000000;3200000000;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Darmo Permai;90;115;4;4;2;1600000000;1850000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Darmo Permai;90;132;4;2;2;1600000000;1900000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Darmo Permai;90;120;4;2;2;1600000000;1900000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Darmo Permai;180;100;4;2;1;2100000000;1900000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;> 10 Tahun;Yes;No;Standard
+Darmo Permai;225;300;5;4;2;2800000000;2800000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+Darmo Permai;162;130;4;2;2;1500000000;1200000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;> 10 Tahun;No;No;Standard
+Raya Darmo Permai;800;1000;7;4;2;22000000000;28000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;Yes;> 10 Tahun;Yes;No;Sangat Premium
+Raya Darmo Permai;775;580;7;5;2;20000000000;25000000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;> 10 Tahun;Yes;No;Sangat Premium
+Raya Darmo Permai;1000;1300;8;6;2;25000000000;32000000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;> 10 Tahun;Yes;No;Sangat Premium
+Raya Darmo Permai;800;923;7;6;2;22000000000;25000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;> 10 Tahun;Yes;No;Sangat Premium
+Wisata Bukit Mas;144;180;5;3;2;2400000000;2900000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Wisata Bukit Mas;128;160;5;4;2,5;2200000000;2600000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Wisata Bukit Mas;128;161;4;2;2;2400000000;2200000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;1 - 4 Tahun;Yes;No;Premium
+Wisata Bukit Mas;180;160;4;2;2;2100000000;1600000000;Hak Milik (SHM);Barat;Tusuk Sate;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Wisata Bukit Mas;198;200;5;4;2,5;3000000000;3200000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Dian Istana;252;250;5;4;2;5000000000;4400000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Dian Istana;240;360;5;3;2,5;5000000000;5500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Dian Istana;128;160;4;3;2;3600000000;4100000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Dian Istana;450;600;7;6;2;10000000000;11200000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Dian Istana;200;312;5;3;2;4000000000;4600000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;No;No;Premium
+Pakuwon Square;180;700;0;4;4;15000000000;17500000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Sangat Premium
+Pakuwon Square;180;625;0;3;3,5;14000000000;16000000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Pakuwon Square;360;1500;0;3;4;30000000000;32000000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Sangat Premium
+Pakuwon Indah;144;200;4;4;2;3300000000;3600000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Pakuwon Indah;162;220;5;4;2;3600000000;3500000000;Hak Guna Bangunan (HGB);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Premium
+Bukit Palma;120;150;4;3;2;1800000000;1670000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil;No;;Yes;No;Standard
+Bukit Palma;105;140;3;3;2;1500000000;1350000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;;Yes;No;Standard
+Royal Residence;230;280;3;3;2;4500000000;3200000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;Yes;;Yes;No;Premium
+Royal Park Citraland;210;280;3;3;2;4500000000;3800000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;;Yes;Yes;Premium
+Cipunegara;258;258;3;3;1;4500000000;2900000000;Hak Milik (SHM);Utara;Tusuk Sate;1-2 Mobil;Yes;;No;No;Standard
+Darmo Permai;225;200;3;2;1;2500000000;1700000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;;Yes;No;Standard
+Royal Residence;171;155;3;3;2;4000000000;2950000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;Yes;;Yes;No;Premium
+Stamford Citraland;171;245;4;3;2;3500000000;3000000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;;Yes;Yes;Premium
+Stamford Citraland;171;219;4;3;2;3500000000;3400000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Royal Residence;300;250;3;3;2;5000000000;4700000000;Hak Guna Bangunan (HGB);Timur;Tikungan/Hook;1-2 Mobil;No;;Yes;No;Premium
+Wisata Bukit Mas 1;240;280;4;3;2;4200000000;3850000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Wisata Bukit Mas 2;240;360;4;3;2;4000000000;3450000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;Yes;;Yes;No;Premium
+Greenlake Citraland;200;258;4;3;2;3500000000;3700000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Royal Park Citraland;150;192;3;2;2;3500000000;3400000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;;Yes;No;Premium
+Royal Park Citraland;426;350;4;3;2;7500000000;7300000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;;Yes;No;Premium
+Royal Park Citraland;375;500;3;3;2;5000000000;5700000000;Hak Guna Bangunan (HGB);Timur;Tusuk Sate;> 2 Mobil;No;;Yes;Yes;Premium
+Royal Park Citraland;150;180;4;4;3;4500000000;4800000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;;Yes;No;Premium
+Royal Park Citraland;180;280;4;3;2;4000000000;4000000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;;No;No;Premium
+Royal Park Citraland;210;280;3;3;2;4000000000;3850000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;;Yes;No;Premium
+Alam Hijau Citraland;105;154;4;4;2;2000000000;2300000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;;Yes;No;Standard
+Bukit Palma;120;176;4;3;2;2300000000;2000000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;;Yes;No;Standard
+Royal Residence;176;200;4;3;2;4000000000;3500000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Tusuk Sate;> 2 Mobil;No;;Yes;No;Premium
+Ploso Timur;150;128;3;2;1;1500000000;1400000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;;Yes;No;Standard
+Mulyosari;180;300;4;5;2;3500000000;3400000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;;Yes;No;Premium
+Lebak;84;150;3;2;2;1500000000;1500000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;;Yes;No;Standard
+Ploso Timur;104;98;3;2;1;1000000000;860000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Ploso Timur;64;70;2;2;2;750000000;680000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Mulyosari;180;250;3;4;2;3000000000;2700000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Standard
+Nirwana Excecutive;198;250;5;5;2;3500000000;3500000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Mulyosari;84;120;3;2;2;1500000000;1350000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Standard
+Sutorejo;80;125;3;2;2;1500000000;1400000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;;Yes;No;Standard
+Greenlake Citraland;240;280;5;4;2;5500000000;5400000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;;Yes;Yes;Premium
+Woodland Citraland;162;170;3;2;2;3200000000;2700000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;Yes;;Yes;No;Premium
+Woodland Citraland;180;130;3;2;1;2800000000;2500000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;;Yes;No;Premium
+Wisata Bukit Mas 1;240;288;4;4;2;3500000000;3700000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;;Yes;No;Premium
+Wisata Bukit Mas 2;240;271;4;4;2;5500000000;4400000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;Yes;;Yes;No;Premium
+Wisata Bukit Mas 2;240;319;4;5;2;4500000000;4500000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Wisata Bukit Mas 2;240;288;4;4;2;4200000000;3700000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Wisata Bukit Mas 2;240;186;4;3;2;4000000000;4500000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;;Yes;No;Premium
+Royal Residence;240;200;3;2;2;5000000000;3750000000;Hak Guna Bangunan (HGB);Timur;Standard;1-2 Mobil;Yes;;No;No;Premium
+Royal Residence;200;245;3;3;2;3800000000;3500000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;;Yes;No;Premium
+Darmo Indah;180;184;3;2;1;2000000000;1500000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;> 10 Tahun;No;No;Standard
+Darmo Baru;162;125;3;1;1;2000000000;1500000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;> 10 Tahun;No;No;Standard
+Alam Hijau Citraland;210;290;5;4;2;2800000000;3000000000;Hak Milik (SHM);Timur;Tikungan/Hook;1-2 Mobil;No;;Yes;No;Standard
+Bukit palma;84;56;2;1;1;950000000;750000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;;;Yes;No;Standard
+Bukit palma;180;198;7;5;2;2000000000;1550000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Tikungan/Hook;1-2 Mobil;Yes;;Yes;No;Standard
+Sutorejo tengah;60;100;3;2;2;1400000000;1275000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;;1 - 4 Tahun;Yes;No;Standard
+Babatan pantai;126;220;4;4;2;2500000000;2150000000;Hak Milik (SHM);Barat;Tusuk Sate;> 2 Mobil;;5 - 10 Tahun;Yes;Yes;Standard
+komplek ruko kenjeran;54;138;2;3;3;2000000000;1750000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;Yes;5 - 10 Tahun;No;No;Standard
+Sutorejo Prima;135;120;4;3;1,5;1800000000;1500000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;;5 - 10 Tahun;Yes;No;Standard
+Kutisari Indah;300;250;6;4;2;2900000000;2300000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;> 10 Tahun;No;No;Standard
+Babatan Pratama;96;84;3;2;1;1500000000;1350000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;;1 - 4 Tahun;Yes;No;Standard
+Graha Family;210;250;5;4;2;4500000000;4200000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;;5 - 10 Tahun;Yes;No;Standard
+Lebak Arum;240;225;5;5;1,5;2000000000;2400000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;> 10 Tahun;No;No;Standard
+Lebak Arum;115;120;4;4;2;1500000000;1375000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;;1 - 4 Tahun;Yes;No;Standard
+Kertajaya Indah;355;300;4;3;1,5;6500000000; 6.250.000.000 ;Hak Milik (SHM);Utara;Standard;> 2 Mobil;;5 - 10 Tahun;Yes;No;Standard
+lebak arum;200;300;5;3;2;1800000000;2100000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;;5 - 10 Tahun;Yes;No;Standard
+Gading Pantai, kenjeran;360;275;4;3;1;3500000000;3100000000;Hak Milik (SHM);Barat;Tusuk Sate;> 2 Mobil;;5 - 10 Tahun;No;No;Standard
+North West Park, Citraland Utara;72;36;1;1;1;750000000;750000000;Pengikatan Perjanjian Jual Beli (PPJB);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Pondok Maritim Indah, Wiyung;101;90;2;1;1;739000000;700000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Sukodono Town House, Sidoarjo;90;62;2;1;1;445000000;400000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Ploso Timur;54;54;2;2;2;790000000;750000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Menteng Regency, Lakarsantri;70;53;2;1;1;460000000;460000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Grand Delta Sari;91;91;2;1;1;675000000;650000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Kali Kepiting Jaya;72;72;2;1;1;420000000;420000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Darmo Indah Selatan;144;170;4;3;2;1675000000;1500000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Karangmenjangan;239;379;3;3;2;5000000000;4750000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Kerangan;200;200;3;1;1;775000000;725000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Citra Harmoni;244;244;5;3;2;1500000000;1300000000;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Green Semangi;72;72;2;1;1;650000000;650000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Bumi Marina Mas Barat ;40;40;2;1;1;635000000;600000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Green Menganti Regency;42;72;2;1;2;375000000;370000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+San Antonio Pakuwon City;120;140;4;3;2;2350000000;2300000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Maharaja Residence Menganti;60;32;2;1;1;300000000;300000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Rungkut Mapan Tengah;96;80;2;1;1;1000000000;950000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Medayu Selatan ;46;90;3;2;2;780000000;780000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Keputih Tegal;84;84;3;1;1;750000000;750000000;Hak Milik (SHM);Selatan;Cul De Sac/Ujung Gang Buntu;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Wiguna Tengah;60;50;2;1;1;775000000;775000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Amerta Residence;84;100;2;1;2;1150000000;1150000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Swan Menganti Mas Regency;90;36;2;1;1;425000000;425000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;No;No;Standard
+Royal Residence;50;95;3;2;3;1500000000;1500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Rungkut Asri;75;120;3;3;2;1400000000;1400000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Rungkut Asri;75;120;3;3;2;1400000000;1400000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Rungkut Asri;75;120;3;3;2;1400000000;1400000000;Hak Milik (SHM);Utara;Tikungan/Hook;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Rungkut Asri;75;120;4;3;2;1400000000;1400000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Gayungsari Barat;94;150;5;4;2;2200000000;2200000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Gayungsari Barat;95;150;5;4;2;2200000000;2200000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Gayungsari Barat;92;150;5;4;2;2200000000;2200000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kutisari Utara;77;120;4;3;2;1350000000;1350000000;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kutisari Utara;75;120;3;3;2;1350000000;1350000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kutisari Utara;74;120;4;4;2;1350000000;1350000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kutisari Utara;78;120;3;3;2;1350000000;1350000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Kutisari Utara;78;120;4;4;2;1350000000;1350000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Rungkut Asri Tengah;100;75;3;2;2;1450000000;1450000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Citraland;347;500;5;5;2;8500000000;8500000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Ngagel Jaya Selatan;300;1050;8;8;3,5;15000000000;15000000000;Surat Hijau;Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Darmahusada Indah;450;300;4;3;1;7700000000;7700000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Kertajaya Indah Tengah;450;500;8;4;2;12500000000;12500000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Pancawarna Gresik;90;225;12;12;3;800000000;800000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Mutiara Driyorejo KotaBaru;153;153;4;2;1;900000000;900000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Kertajaya Indah Tengah;735;520;6;6;2;29000000000;29000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Kutisari Utara;55;110;3;2;2;875000000;875000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+WIguna Selatan;120;210;3;2;2;1600000000;1600000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Pantai Mentari;250;300;5;4;2;3450000000;3450000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Mulyosari Mas;72;110;3;3;2;1650000000;1650000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Manyar Tirtoasri Tompotika;112,5;150;5;4;2;2400000000;2400000000;Hak Milik (SHM);Selatan;Tikungan/Hook;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Manyar Tirtoasri Tompotika;105;150;5;4;2;2400000000;2400000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;No;No;Standard
+Sutorejo Selatan;120;200;4;3;2;2350000000;2350000000;Hak Milik (SHM);Timur;Standard;1-2 Mobil;Yes;1 - 4 Tahun;Yes;No;Standard
+Florence Laguna Pakuwon City;128;120;4;4;2;3600000000;3600000000;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;Yes;Premium
+Wisata Bukit Mas;264;330;5;4;2;4750000000;4750000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Citra Harmoni;90;75;2;1;1;820000000;820000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Citra Harmoni;96;150;3;2;2;1000000000;1000000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Citra Harmoni;105;40;2;1;1;1200000000;1200000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Citra Harmoni;120;160;4;3;2;1300000000;1300000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Citra Harmoni;72;39;2;1;1;655000000;655000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Citra Harmoni;126;180;4;2;1,5;1200000000;1200000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;Yes;Standard
+Citra Harmoni;120;72;2;1;1;900000000;900000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Tirtoyoso Selatan Tompotika;121;165;5;4;2;2600000000;2600000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Tirtoyoso Selatan Tompotika;116;155;4;4;2;2600000000;2600000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Tirtoasri Tompotika;70;120;4;4;2;1600000000;1600000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Tirtoyoso Tompotika;240;330;5;4;2;5300000000;5300000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Nirwana Eksekutif;69;70;2;3;2;1300000000;1300000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Jemursari;35;70;2;2;2;850000000;850000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Wonorungkut Utara;60;90;3;2;2;1050000000;1050000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Wonorungkut Utara;76;115;4;4;2;1150000000;1150000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Wonorungkut Utara;70;110;4;4;2;1150000000;1150000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Duku Pondok Tjandra Indah;66;110;3;3;2;1000000000;1000000000;Hak Milik (SHM);Utara;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Nirwana Eksekutif;87;120;4;4;2;1600000000;1600000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Klampis Anom Wisma Mukti;296;244;5;4;2;3900000000;3900000000;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Grand Island Pakuwon City;60;70;2;2;2;1900000000;1900000000;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Gading Kirana Sidoarjo;112;112;3;4;2;750000000;750000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Wonorejo Selatan;100;150;3;1;1,5;675000000;675000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;Yes;5 - 10 Tahun;Yes;No;Standard
+Manyar Tirtoasri Tompotika;108;144;4;3;2;2650000000;2650000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Tirtoasri Tompotika;145;230;5;4;2;4000000000;4000000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Jaya;162;220;5;5;2;3750000000;3750000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Tirtomoyo Tompotika;240;200;3;3;1;3850000000;3850000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Standard
+Manyar Rejo;120;190;4;4;2;2650000000;2650000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Manyar Rejo;395;400;7;5;1,5;5250000000;5250000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Manyar Indah;252;180;4;3;1;2850000000;2850000000;Hak Milik (SHM);Barat;Tikungan/Hook;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Manyar Indah;100;120;4;4;2;1950000000;1950000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Manyar Indah;193;240;5;4;2;2700000000;2700000000;Hak Milik (SHM);Utara;Tikungan/Hook;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Araya Galaxy Bumi Permai I;375;600;5;4;2;12000000000;12000000000;Hak Milik (SHM);Barat;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Araya Galaxy Bumi Permai I;798;1476;8;7;3;30000000000;30000000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Sangat Premium
+Araya Galaxy Bumi Permai I;300;400;6;4;2;9500000000;9500000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Gunung Anyar;60;54;3;2;2;650000000;650000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Wisma Gunung Anyar;84;66;2;1;1;950000000;950000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;No;No;Standard
+Taman Riviera Regency Gunung Anyar;120;77;3;2;1;1500000000;1500000000;Hak Guna Bangunan (HGB);Utara;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Puri Mas;96;120;3;2;2;1700000000;1700000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Puri Mas;128;70;2;1;1;1700000000;1700000000;Hak Guna Bangunan (HGB);Timur;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Puri Mas;230;120;4;2;1;4000000000;4000000000;Hak Guna Bangunan (HGB);Barat;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Kertajaya Indah Tengah;600;600;4;3;2;20000000000;20000000000;Hak Milik (SHM);Timur;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;Yes;Sangat Premium
+Bratang Gede;100;100;5;3;2,5;1800000000;1800000000;Surat Hijau;Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Taman Pinang Indah Sidoarjo;122;80;3;2;1;750000000;750000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Puri Surya Jaya Gedangan Sidoarjo;120;85;3;1;1;950000000;950000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Bukit Palma Citraland Utara;158;180;5;4;2;2200000000;2200000000;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Rambutan Tengah Pondok Tjandra Indah;224;224;6;3;2;2600000000;2600000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Manyar Tirtoasri  Tompotika;90;126;4;4;2;2600000000;2600000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Araya Galaxy Bumi Permai I;157;182;5;4;2;3900000000;3900000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Petemon Sidomulyo;150;208;3;2;2;2200000000;2200000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Araya Galaxy Bumi Permai I;176;218;5;4;2;4600000000;4600000000;Hak Milik (SHM);Selatan;Standard;> 2 Mobil;No;1 - 4 Tahun;Yes;No;Premium
+Darmahusada Indah Utara;180;118;4;3;2;2800000000;2800000000;Hak Milik (SHM);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Premium
+Emerald Residence Gresik;96;110;4;3;2;750000000;750000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Lebak Permai Utara;200;194;5;4;1;2250000000;2250000000;Hak Milik (SHM);Barat;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Wisata Semanggi Wonorejo;72;72;2;1;1;780000000;780000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
+Puri Surya Jaya Gedangan Sidoarjo;659;330;5;2;1;6000000000;6000000000;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Siwalankerto Permai;153;153;5;2;2;1600000000;1600000000;Hak Milik (SHM);Utara;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Pucang Anom;144;280;5;2;2;2200000000;2200000000;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil;No;5 - 10 Tahun;Yes;No;Standard
+Wiguna Tengah;60;50;2;1;1;775000000;775000000;Hak Milik (SHM);Selatan;Standard;1-2 Mobil;No;1 - 4 Tahun;Yes;No;Standard
